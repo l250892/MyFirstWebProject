@@ -31,6 +31,14 @@ main {
     overflow: auto;
 }
 
+#journal-box{
+    border: 5px solid #920000;
+    width: 25%;
+    float: left;
+    margin-right: 2%;
+    background-color: #a7464b;
+}
+
 #friends-box {
     border: 5px solid #920000;
     width: 25%;
