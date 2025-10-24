@@ -1,0 +1,62 @@
+body {
+    background-image: url("C:/Users/abdul/OneDrive/Documents/GitHub/MyFirstWebProject/bg2.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 20px;
+}
+#container {
+    width: 900px;
+    margin: 0;
+    padding: 20px;
+    border: 7px solid #103772;
+    background-color: #fafafa;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.title-box {
+    border: 4px solid #17616c;
+    background-color: #3f9aa4;
+    padding: 15px;
+    width: 60%;
+    margin: 0 auto 10px auto;
+    text-align: center;
+}
+
+#journal-box{
+    border: 5px solid #69520c;
+    width: 25%;
+    float: left;
+    margin-right: 2%;
+    background-color: #9f6746;
+}
+
+#friends-box {
+    border: 5px solid #920000;
+    width: 25%;
+    float: left;
+    margin-right: 2%;
+    background-color: #a7464b;
+}
+
+#entries-box {
+    width: 73%;
+    float: left;
+}
+
+.content-box {
+    border: 5px solid #a8570c;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.journal-entry {
+    border: 1px solid #f3f3f3;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #b66411;
+}
+
